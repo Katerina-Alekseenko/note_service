@@ -48,6 +48,7 @@
 5. Примеры запросов:
 
 Добавление заметки:
+
     ```sh
     curl -X POST "http://localhost:8000/notes/" \
      -H "Content-Type: application/json" \
@@ -56,6 +57,7 @@
     ```
 
 Вывод списка заметок:
+
     ```sh
     curl "http://localhost:8000/notes/" \
      --user user1:password1
