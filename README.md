@@ -12,7 +12,7 @@
 1. **Клонируйте репозиторий:**
 
    ```
-   git clone https://github.com/your-repo/notes-api.git
+   git clone git@github.com:Katerina-Alekseenko/note_service.git
    cd notes-api
    ```
 
